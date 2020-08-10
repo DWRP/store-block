@@ -1,0 +1,2 @@
+tasks:
+  - before: npm install -g vtex
